@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88872370741",
+    "project_id": "image-uplod-85669",
+    "storage_bucket": "image-uplod-85669.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88872370741:android:66661ffa8733efb1f0677c",
+        "android_client_info": {
+          "package_name": "com.example.image_uplod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUNKtYoJQ6LEJvv_gPAcW4ef6CesF5qOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
